@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="ESTRENOS 2026",¡Ayuda! (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="ESTRENOS 2026",¡La novia! (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Quieres Ser Mi Novia? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="ESTRENOS 2026",¿Quieres Ser Mi Novia? (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280879.mkv
 #EXTINF:-1 tvg-id="" tvg-name="72 horas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaH93fUARqbfvM9XtaKybUAIo9u.jpg" group-title="ESTRENOS 2026",72 horas (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282947.mkv
 #EXTINF:-1 tvg-id="" tvg-name="180 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="ESTRENOS 2026",180 (2026)
@@ -17,10 +23,6 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282840.mkv
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281628.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Apex (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="ESTRENOS 2026",Apex (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="ESTRENOS 2026",¡Ayuda! (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281107.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Milky☆Subway: The Galactic Limited Express - La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2wClSPUcs0NidsNBueaTBmGkJd.jpg" group-title="ESTRENOS 2026",Milky☆Subway: The Galactic Limited Express - La película (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281619.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Backrooms (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg" group-title="ESTRENOS 2026",Backrooms (2026) CAM
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281596.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barreda (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg" group-title="ESTRENOS 2026",Barreda (2026)
@@ -39,7 +41,7 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285471.mkv
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283842.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores Del Fin Del Mundo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VTnUQx6nY3UsZUV0BQX5S6l1Nq.jpg" group-title=" → VOD ESTRENOS 2025 ←",Cazadores Del Fin Del Mundo (2025)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Codigo: Venganza (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Codigo: Venganza (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="Codigo: Venganza (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg" group-title="ESTRENOS 2026",Codigo: Venganza (2026) SUB
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/284964.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Compañeras de cuarto (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg" group-title="ESTRENOS 2026",Compañeras de cuarto (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280813.mkv
@@ -69,7 +71,7 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282923.mp4
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281776.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Día Del Fin Del Mundo: Migración (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg" group-title="ESTRENOS 2026",El Día Del Fin Del Mundo: Migración (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/279705.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Dia del Fin del Mundo: Migración (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",El Dia del Fin del Mundo: Migración (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="El Dia del Fin del Mundo: Migración (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="ESTRENOS 2026",El Dia del Fin del Mundo: Migración (2026) SUB
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/279298.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="ESTRENOS 2026",El Diablo viste a la moda 2 (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281939.mp4
@@ -161,8 +163,6 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280655.mkv
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282602.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La noche del demonio: Estan entre nosotros (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e39otwsMlSNLflKeQsmdbcl0ZQ9.jpg" group-title="ESTRENOS 2026",La noche del demonio: Estan entre nosotros (2026) CAM
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="ESTRENOS 2026",¡La novia! (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280730.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcYM55YaRob9UrPf9vW2lrBpIY8.jpg" group-title="ESTRENOS 2026",La Odisea (2026) CAM
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282716.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Posesion de la Momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="ESTRENOS 2026",La Posesion de la Momia (2026)
@@ -183,7 +183,7 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281734.mkv
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283081.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Extraños: Capítulo 3 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg" group-title="ESTRENOS 2026",Los Extraños: Capítulo 3 (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lucky Strike (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Lucky Strike (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Strike (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="ESTRENOS 2026",Lucky Strike (2026) SUB
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283675.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maquina de Guerra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="ESTRENOS 2026",Maquina de Guerra (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280236.mkv
@@ -201,8 +201,10 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281773.mkv
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281629.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Michael (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="ESTRENOS 2026",Michael (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Michael (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Michael (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="Michael (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="ESTRENOS 2026",Michael (2026) SUB
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milky☆Subway: The Galactic Limited Express - La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2wClSPUcs0NidsNBueaTBmGkJd.jpg" group-title="ESTRENOS 2026",Milky☆Subway: The Galactic Limited Express - La película (2026)
+http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281619.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Minions & Monstruos (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="ESTRENOS 2026",Minions & Monstruos (2026) CAM
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282922.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moana (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJNKHZLgnvWqveB4uai0kaWom6M.jpg" group-title="ESTRENOS 2026",Moana (2026)
@@ -213,7 +215,7 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/282826.mp4
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281286.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mother Mary (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4CWItPJIjdnnRsao1DPBO3u5AD.jpg" group-title="ESTRENOS 2026",Mother Mary (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Motor City (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CatrE52P66ODUQmrMlBO7L0D5c.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Motor City (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="Motor City (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CatrE52P66ODUQmrMlBO7L0D5c.jpg" group-title="ESTRENOS 2026",Motor City (2026) SUB
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No es Pais para Solteros (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/in1iQGN5g2nDwD20EVHT294jDvr.jpg" group-title="ESTRENOS 2026",No es Pais para Solteros (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281106.mkv
@@ -227,7 +229,7 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/284420.mp4
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281593.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Outcome (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uriReigJBf5zVBNaHj5C9kDDTe.jpg" group-title="ESTRENOS 2026",Outcome (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paul McCartney: Hombre a la Fuga (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6GhGmlEpWYwuY0ZfUPdtACTFdD.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Paul McCartney: Hombre a la Fuga (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="Paul McCartney: Hombre a la Fuga (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6GhGmlEpWYwuY0ZfUPdtACTFdD.jpg" group-title="ESTRENOS 2026",Paul McCartney: Hombre a la Fuga (2026) SUB
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280203.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: El hombre inmortal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg" group-title="ESTRENOS 2026",Peaky Blinders: El hombre inmortal (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280424.mkv
@@ -245,8 +247,6 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281812.mkv
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281798.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Psycho Killer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg" group-title="ESTRENOS 2026",Psycho Killer (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/284032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Quieres Ser Mi Novia? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="ESTRENOS 2026",¿Quieres Ser Mi Novia? (2026)
-http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280879.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Regreso a los 90s (2026) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlPNWSHJRHZ11NSWq7HnZx5vx5m.jpg" group-title="ESTRENOS 2026",Regreso a los 90s (2026) DUAL
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/285242.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Risa y la cabina del viento (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35TwcuX3wvOV3M06BOwVWIMnJTs.jpg" group-title="ESTRENOS 2026",Risa y la cabina del viento (2026)
@@ -291,7 +291,7 @@ http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281037.mkv
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/279940.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tetracampeones: Brasil volvio a creer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vW1BD3416Ev2rdB7CHKXGnzdGv.jpg" group-title="→ VOD DOCUMENTALES ←",Tetracampeones: Brasil volvio a creer (2026)
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Huntsman (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1DintRyDHFuKja6fuyVpkzS0eC.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",The Huntsman (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="The Huntsman (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1DintRyDHFuKja6fuyVpkzS0eC.jpg" group-title="ESTRENOS 2026",The Huntsman (2026) SUB
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/280015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Mandalorian and Grogu (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="ESTRENOS 2026",The Mandalorian and Grogu (2026) CAM
 http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281411.mp4
